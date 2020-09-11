@@ -143,7 +143,7 @@ THEME:
     CONTENT_VAR_MAP:
       author_avatar: AVATAR
       banner: BANNER
-      banner: OPEN_GRAPH_IMAGE
+      # banner: OPEN_GRAPH_IMAGE
       author: AUTHOR
       header_color: BASE_COLOR
 
@@ -353,7 +353,7 @@ THEME_MALT:
       ## attributes taken from article/page and its export name
       author_avatar: AVATAR
       banner: BANNER
-      banner: OPEN_GRAPH_IMAGE
+      # banner: OPEN_GRAPH_IMAGE
       author: AUTHOR
       header_color: MALT_BASE_COLOR
 
@@ -386,7 +386,7 @@ THEME_OCTOPRESS:
     # FEED_FEEDBURNER:
     # EXTRA_HEADER: Hello
     # ARTICLE_ASIDES: ['social_icons', 'image', 'recentpost', 'categories', 'tags', 'github', 'social', 'links', 'twitter', 'gplus', 'google_adsense']
-    DISPLAY_TAGS: false
+    # DISPLAY_TAGS: false
 
 ## ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ## ▓▓▓▒▒▒░░░                       DEV SETTINGS                      ░░░▒▒▒▓▓▓
